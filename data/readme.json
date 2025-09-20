@@ -1,0 +1,11 @@
+{
+  "name": "xhamster-video-downloader",
+  "tagline": ""Download xHamster videos including VR and premium content"",
+  "description": "Download tool for xhamster-video-downloader",
+  "github_repo_url": "https://github.com/serpapps/xhamster-video-downloader",
+  "purchase_url": "https://serp.ly/xham-downloader",
+  "featured_image": "images/xhamster-video-downloader.jpg",
+  "featured_image_gif": "images/xhamster-video-downloader.gif",
+  "features": ["Download support", "High quality", "Fast processing"],
+  "keywords": ["xhamster-video-downloader", "downloader", "tool"]
+}
