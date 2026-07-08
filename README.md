@@ -1,4 +1,4 @@
-# XHamster Downloader (Browser Extension)
+# XHamster Video Downloader (Browser Extension)
 
 > Download supported XHamster videos as MP4 files directly from watch pages in your browser.
 
@@ -12,7 +12,7 @@ XHamster Downloader is a browser extension built for users who want a cleaner wa
 
 ## Links
 
-- :rocket: Get it here: [XHamster Downloader](https://serp.ly/xhamster-video-downloader)
+- :rocket: Get it here: [XHamster Downloader](https://serp.ly/xhamster-video-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/xhamster-video-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/xhamster-video-downloader/issues)
@@ -126,7 +126,7 @@ The extension only works on media you can already open and play in your active b
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/xhamster-video-downloader](https://serp.ly/xhamster-video-downloader)
+Start here: [https://serp.ly/xhamster-video-downloader?via=github](https://serp.ly/xhamster-video-downloader?via=github)
 
 ## Installation Instructions
 
